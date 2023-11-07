@@ -15,5 +15,7 @@ Mac, Clion, C++17
 - [const](./basic_content/const/README.md)
 - [constexpr](./basic_content/constexpr/README.md)
 - [enum](./basic_content/enum/README.md)
+- [constructor](./basic_content/constructor/README.md)
+- [polymorphism](./basic_content/polymorphism/README.md)
 
 ## [Design Pattern](./DesignPattern/README.md)
